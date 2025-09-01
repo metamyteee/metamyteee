@@ -36,20 +36,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=metamyteee&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&layout=compact" height="140" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamyteee&layout=compact&hide_border=true&theme=radical&langs_count=6&hide_title=true" height="140" alt="Top Languages" />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake.svg"
-  />
+<!-- <picture>
+<!--   <source -->
+<!--     media="(prefers-color-scheme: dark)" -->
+<!--     srcset="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake-dark.svg" -->
+<!--   /> -->
+<!--   <source -->
+<!--     media="(prefers-color-scheme: light)" -->
+<!--     srcset="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake.svg" -->
+<!--   /> -->
 <!--   <img -->
 <!--     alt="github contribution grid snake animation" -->
 <!--     src="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake.svg" -->
 <!--   /> -->
-</picture>
+<!-- </picture> -->
 
 ---
 
