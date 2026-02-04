@@ -9,7 +9,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/7LfXC60OyVkAAAAd/cyberpunk-cyberpunk-anime.gif" alt="Cyberpunk GIF" height="225" />
+      <img src="https://64.media.tumblr.com/bd227c61d2487281119b65d8a0c272df/843918345f7cee94-02/s540x810/eeb64bcd68977cf36d9be601b6ef32e25813767c.gifv" alt="Cyberpunk GIF" height="280" />
     </td>
   </tr>
 </table>
@@ -30,26 +30,9 @@
 | **Design & Misc.** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" /> |
 
 ---
+<br clear="both">
 
-### 📈 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=metamyteee&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&layout=compact" height="140" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamyteee&layout=compact&hide_border=true&theme=radical&langs_count=6&hide_title=true" height="140" alt="Top Languages" />
-
-<!-- <picture>
-<!--   <source -->
-<!--     media="(prefers-color-scheme: dark)" -->
-<!--     srcset="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake-dark.svg" -->
-<!--   /> -->
-<!--   <source -->
-<!--     media="(prefers-color-scheme: light)" -->
-<!--     srcset="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake.svg" -->
-<!--   /> -->
-<!--   <img -->
-<!--     alt="github contribution grid snake animation" -->
-<!--     src="https://raw.githubusercontent.com/metamyteee/metamyteee/output/github-contribution-grid-snake.svg" -->
-<!--   /> -->
-<!-- </picture> -->
+<img src="https://raw.githubusercontent.com/metamyte/metamyte/output/snake.svg" alt="Snake animation" />
 
 ---
 
