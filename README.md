@@ -1,143 +1,45 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/-QUANTUM_COMPUTING-0F62FE?style=for-the-badge&labelColor=161616" height="28" />
-<img src="https://img.shields.io/badge/-FULL--STACK-161616?style=for-the-badge&labelColor=0F62FE&color=161616" height="28" />
-<img src="https://img.shields.io/badge/-EMBEDDED_SYSTEMS-0F62FE?style=for-the-badge&labelColor=161616" height="28" />
-
-<br/><br/>
-
-# Aarush
-
-### Engineering Physics · IIT Indore
-
-<img src="https://img.shields.io/badge/status-building-0F62FE?style=flat-square&labelColor=161616" />
-<img src="https://img.shields.io/badge/focus-quantum_%2B_systems-0F62FE?style=flat-square&labelColor=161616" />
-<img src="https://img.shields.io/badge/location-india-0F62FE?style=flat-square&labelColor=161616" />
-
-</div>
-
-<br/>
-
-> I engineer clean, efficient software — from low-level drivers to quantum-adjacent web platforms. Currently building post-quantum security tooling and QUBO-based finance systems, with research in QML under Dr. Shashank Gupta at IIT Indore. Always open to collaborating on builds that merge systems, software, and science.
-
-<br/>
-
----
-
-<br/>
-
-## 01 — Currently Building
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**QGuard** — Trevasq
-Post-quantum cryptography security scanner. FastAPI · Next.js · Supabase · JWT multi-tenancy · async SQLAlchemy 2.0.
-
-</td>
-<td width="50%" valign="top">
-
-**Quantum-Quant Finance** — Quanfluence
-QUBO-based finance pipeline with a conversational REPL and an LLM intent gate over a regex parser.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**QSign**
-Quantum-secure document signing. NestJS · Next.js 15 · FastAPI — deployed across Vercel, Render, Neon, Supabase.
-
-</td>
-<td width="50%" valign="top">
-
-**MetaScope**
-Privacy-first browser analytics extension. Chrome MV3 · k-anonymity · GDPR-compliant by design.
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <h1 align="left">Hey, I'm Metamyte! 👋</h1>
+      <h3 align="left">Quantum Computing | Full-Stack Development | Embedded Systems</h3>
+      <p align="left">
+        I engineer clean, efficient software, from low-level drivers to modern web applications and scientific tools. <br />
+        Based in India, I'm always open to collaborating on challenging builds that merge systems, software, and science.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://64.media.tumblr.com/bd227c61d2487281119b65d8a0c272df/843918345f7cee94-02/s540x810/eeb64bcd68977cf36d9be601b6ef32e25813767c.gifv" alt="Cyberpunk GIF" height="280" />
+    </td>
+  </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
-
-## 02 — Stack
-
-<table>
-<tr><td width="18%"><b>Frontend</b></td><td>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" title="TypeScript" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" title="React" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="26" title="Next.js" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="26" title="Tailwind" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="26" title="Three.js" />
-
-</td></tr>
-<tr><td><b>Backend</b></td><td>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" title="Node.js" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" title="Python" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="26" title="NestJS" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26" title="PostgreSQL" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="26" title="Redis" />
-
-</td></tr>
-<tr><td><b>Embedded / Systems</b></td><td>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="26" title="C" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26" title="C++" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="26" title="Rust" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="26" title="Arduino" />
-
-</td></tr>
-<tr><td><b>Quantum / ML</b></td><td>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" title="Python" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="26" title="TensorFlow" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26" title="NumPy" /> &nbsp;
-<img src="https://img.shields.io/badge/Qiskit-0F62FE?style=flat-square&labelColor=161616" height="26" title="Qiskit" />
-
-</td></tr>
-<tr><td><b>Infra / Tools</b></td><td>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" title="Docker" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" title="Git" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="26" title="GCP" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" title="VS Code" />
-
-</td></tr>
-</table>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
+
+### 🛠️ Languages, Frameworks, and Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs" /> |
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30" alt="elixir" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" /> |
+| **Embedded & Systems** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc" /> |
+| **Data / ML / QC** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" /> |
+| **Developer Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint" /> |
+| **Design & Misc.** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" /> |
+
+---
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/metamyte/metamyte/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
 
 ---
 
-<br/>
+### 🌐 Let's Connect
 
-## 03 — Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aarush-bindod-140a66320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F62FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" height="32" /></a>
-<a href="https://discord.com/not_aarush" target="_blank"><img src="https://img.shields.io/badge/Discord-161616?style=for-the-badge&logo=discord&logoColor=white&labelColor=0F62FE" height="32" /></a>
-<a href="https://www.instagram.com/not_so_aarush/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0F62FE?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161616" height="32" /></a>
-
-<br/><br/>
-
-<sub>IIT INDORE &nbsp;·&nbsp; QUANTUM COMPUTING &nbsp;·&nbsp; SYSTEMS ENGINEERING</sub>
+<a href="https://www.linkedin.com/in/aarush-bindod-140a66320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://discord.com/not_aarush" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>
+<a href="https://www.instagram.com/not_so_aarush/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a>
 
 </div>
